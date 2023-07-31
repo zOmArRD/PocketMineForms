@@ -1,0 +1,24 @@
+{
+  "name": "zomarrd/pocketmine-forms",
+  "description": "A powerful form API for create forms in PocketMine-MP",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zOmArRD",
+      "email": "dev@zomarrd.me"
+    }
+  ],
+  "require-dev": {
+    "pocketmine/pocketmine-mp": ">=3.0.0",
+    "phpstan/phpstan": "1.11.x-dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "zomarrd\\forms\\": "src/"
+    }
+  },
+  "require": {
+    "ext-json": "*"
+  }
+}
