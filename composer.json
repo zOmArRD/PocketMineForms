@@ -1,6 +1,7 @@
 {
   "name": "zomarrd/pocketmine-forms",
   "description": "A powerful form API for create forms in PocketMine-MP",
+  "keywords": ["pocketmine", "pocketmine-mp", "plugin", "form", "api", "pocketmine-forms", "zomarrd"],
   "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
