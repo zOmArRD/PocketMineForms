@@ -1,5 +1,19 @@
+
 # PocketMineForms
 
-La API definitiva para crear Forms en PocketMine-MP
+The Ultimate API for Creating Forms in PocketMine-MP
 
-### DOCUMENTATION SOON
+
+## Installation
+
+Install Composer, and run this command in your project directory:
+
+```sh
+composer require zomarrd/pocketmine-forms
+```
+
+## Usage/Examples
+
+```php
+echo "soon";
+```
