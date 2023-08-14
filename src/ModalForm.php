@@ -2,7 +2,8 @@
 
 namespace zomarrd\forms;
 
-use pocketmine\Player;
+
+use pocketmine\player\Player;
 
 abstract class ModalForm implements Form
 {

@@ -2,7 +2,7 @@
 
 namespace zomarrd\forms;
 
-use pocketmine\Player;
+use pocketmine\player\Player;
 use pocketmine\utils\TextFormat as TF;
 use zomarrd\forms\entries\simple\Button;
 

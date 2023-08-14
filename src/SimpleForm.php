@@ -5,7 +5,7 @@ namespace zomarrd\forms;
 use Closure;
 use Exception;
 use pocketmine\form\FormValidationException;
-use pocketmine\Player;
+use pocketmine\player\Player;
 use zomarrd\forms\entries\simple\Button;
 
 abstract class SimpleForm implements Form
